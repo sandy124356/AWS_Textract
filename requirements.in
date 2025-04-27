@@ -1,0 +1,4 @@
+# requirements.in
+streamlit
+pandas
+boto3
